@@ -12,3 +12,6 @@ test $LAST_KERNEL = $CURRENT_KERNEL || echo REBOOT
 
 #Requires yum-util
 needs-restarting
+
+#Only in Ubuntu 
+cat /var/run/reboot-required

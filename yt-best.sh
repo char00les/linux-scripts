@@ -4,8 +4,9 @@
 # sudo apt-get install ffmpeg
 
 #The command that the script with execute
-youtube-dl -f bestvideo+bestaudio $_
+youtube-dl -f bestvideo+bestaudio $@
+
 
 
 #Seconardy option if the first one doesn't work
-youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4 "link to youtube video"
+#youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/bestvideo+bestaudio' --merge-output-format mp4 $@

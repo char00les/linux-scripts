@@ -1,11 +1,11 @@
 # linux-scripts
 Linux Scripts
 
-##Description
+## Description
 
 List of scripts that is helpful for linux administration 
 
-#Using this repo
+## Using this repo
 
 Just clone and execute scripts. 
 

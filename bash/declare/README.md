@@ -12,3 +12,7 @@
 |-f |It is used to declare a bash function.|
 |-F |It is used to print the name of the function and attributes.|
 |-n |It is used to declare a variable that references another variable.|
+
+## Reference: 
+
+  * https://levelup.gitconnected.com/5-bash-coding-techniques-that-every-programmer-should-know-f63b11b59e8d
